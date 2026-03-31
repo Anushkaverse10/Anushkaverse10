@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 # 💫 About Me:
 💻 Aspiring Developer | Building real-world web projects  <br>🎬 Creator of Cinematch for Cinephiles  <br>⚡ Exploring APIs, deployment & modern web tools  <br>🚀 Learning something new every day
 
