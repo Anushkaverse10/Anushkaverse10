@@ -29,8 +29,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anushkaverse10&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushkaverse10&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkaverse10&layout=compact&theme=tokyonight)
 ![](https://nirzak-streak-stats.vercel.app/?user=Anushkaverse10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkaverse10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
