@@ -1,5 +1,6 @@
 ## Hey there, I'm Anushka 👋
-#Front end web developer | Learning about LLM
+###Front end web developer | Learning about LLM
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Anushkaverse10)
 
 # 💫 About Me:
