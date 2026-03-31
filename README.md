@@ -1,5 +1,5 @@
 ## Hey there, I'm Anushka 👋
-###Front end web developer | Learning about LLMS
+## Front end web developer | Learning about LLMS
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Anushkaverse10)
 
