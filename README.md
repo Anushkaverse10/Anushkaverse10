@@ -2,6 +2,7 @@
 # 💫 About Me:
 💻 Aspiring Developer | Building real-world web projects  <br>🎬 Creator of Cinematch for Cinephiles  <br>⚡ Exploring APIs, deployment & modern web tools  <br>🚀 Learning something new every day
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Anushkaverse10)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anushkamukherjee0754) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-mukherjee-26ba64271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anushka99955406) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AnushkaMukherjee) [![Gmail](https://img.shields.io/badge/Gmail-Anushka-red?logo=gmail&logoColor=white)](mailto:anushkamukherjee39@gmail.com)
@@ -35,7 +36,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkaverse10&layout=compact&theme=tokyonight)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Anushkaverse10)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anushkaverse10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
