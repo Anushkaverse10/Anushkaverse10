@@ -10,8 +10,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anushkamukherjee0754) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-mukherjee-26ba64271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anushka99955406) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AnushkaMukherjee) [![Gmail](https://img.shields.io/badge/Gmail-Anushka-red?logo=gmail&logoColor=white)](mailto:anushkamukherjee39@gmail.com)
 
 ## 💻 Tech Stack:
-> Tools I actually build with 👇
-
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
