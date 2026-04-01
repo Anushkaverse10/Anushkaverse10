@@ -36,6 +36,25 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushkaverse10&theme=tokyonight)
 
+## 💻 Tech Stack:
+> Tools I actually build with 👇
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+![API](https://img.shields.io/badge/REST_API-ff6f61?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge)
+### ⚡ Currently Exploring
+![APIs](https://img.shields.io/badge/APIs-ff9800?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-673ab7?style=for-the-badge)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
