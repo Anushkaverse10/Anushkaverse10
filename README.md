@@ -1,9 +1,9 @@
 ## Hey there, I'm Anushka 👋
-## Web Dev | Shipping Projects | LLMs & APIs | [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://anushka-s-portfolio-dw4ocnwyr-anushkaverse10s-projects.vercel.app/)
+## Web Dev | Shipping Projects | LLMs & APIs 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Anushkaverse10)
 
-# 💫 About Me:
+# 💫 About Me:   [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://anushka-s-portfolio-dw4ocnwyr-anushkaverse10s-projects.vercel.app/)
 💻 Aspiring Developer | Building real-world web projects  <br>🎬 Creator of Cinematch for Cinephiles  <br>⚡ Exploring APIs, deployment & modern web tools  <br>🚀 Learning something new every day
 
 ## 🌐 Socials:
