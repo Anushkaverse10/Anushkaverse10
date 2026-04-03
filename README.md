@@ -3,11 +3,11 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Anushkaverse10)
 
-# 💫 About Me:   [![My Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://anushka-s-portfolio-dw4ocnwyr-anushkaverse10s-projects.vercel.app/)
+# 💫 About Me: 
 💻 Aspiring Developer | Building real-world web projects  <br>🎬 Creator of Cinematch for Cinephiles  <br>⚡ Exploring APIs, deployment & modern web tools  <br>🚀 Learning something new every day
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-mukherjee) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/anushkamukherjee0754) [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Anushka99955406)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushkaverse10) [![Gmail](https://img.shields.io/badge/Gmail-Anushka-red?logo=gmail&logoColor=white)](mailto:anushkamukherjee39@gmail.com) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AnushkaMukherjee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-mukherjee) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/anushkamukherjee0754) [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Anushka99955406)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anushkaverse10) [![Gmail](https://img.shields.io/badge/Gmail-Anushka-red?logo=gmail&logoColor=white)](mailto:anushkamukherjee39@gmail.com) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AnushkaMukherjee)    [![My Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://anushka-s-portfolio-dw4ocnwyr-anushkaverse10s-projects.vercel.app/)
 
 ## 💻 Tech Stack:
 ### 🧠 Languages
